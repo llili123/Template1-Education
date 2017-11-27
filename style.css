@@ -1,0 +1,31 @@
+/*
+Theme Name: template01
+Theme URI: 
+Author: lily
+Author URI: 
+Description: 
+Version: 1.3
+License: 
+License URI: 
+Tags: 
+Text Domain: 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body{
+    
+}
+p{
+    text-align: justify!important;
+}
+.xueyuan p{
+    text-align: center!important;
+}
+.team-item p{
+    padding: 0px 10px;
+}
+.mediap{
+    width: 90%;
+    overflow: hidden;
+}
